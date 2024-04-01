@@ -4,6 +4,7 @@ aqq这是一个聊天的软件
 jiyu:
 
 
+
 positional arguments:
   {r,s,g,nc,break,continue}
                         -e 参数的详细说明
@@ -14,7 +15,7 @@ positional arguments:
     break               独立选项，脱离屏幕控制，需要管理员权限
     continue            独立选项，恢复屏幕控制
 
-optional arguments:
+optional arguments: 
   -h, --help            show this help message and exit
   -ip IP                ip 指定目标IP地址
   -p P                  port 指定监听端口，默认端口为4705
